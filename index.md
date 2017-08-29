@@ -10,6 +10,8 @@ Our idea: instead of constructing indicator frameworks expensively and internall
 
 The indicator frameworks research team conducts original scientific research on indicator frameworks, and works to disseminate our findings to the smart cities community.
 
+You can read the original workshop paper, presented at SCOPE 2017, here: [indicator frameworks](...)
+
 ### The team
 
 The research team was formed in Summer 2016 by Sokwoo Rhee, director of the Global Cities Team Challenge (GCTC) program at the National Institute for Standards and Technology (NIST). Its current members include:
@@ -18,8 +20,7 @@ The research team was formed in Summer 2016 by Sokwoo Rhee, director of the Glob
 - Christine Kendrick, City of Portland, OR
 - Abhishek Dubey, Vanderbilt University
 - Santiago Garces, City of South Bend, IN
-- Derek Loftis, 
-- 
+- Derek Loftis, Virginia Institute of Marine Science
 
 ### Participate
 
