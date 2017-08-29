@@ -21,6 +21,8 @@ The research team was formed in Summer 2016 by Sokwoo Rhee, director of the Glob
 - Abhishek Dubey, Vanderbilt University
 - Santiago Garces, City of South Bend, IN
 - Derek Loftis, Virginia Institute of Marine Science
+- Bilin Guvenc, Ohio State University
+- Levent Guvenc, Ohio State University
 
 ### Participate
 
