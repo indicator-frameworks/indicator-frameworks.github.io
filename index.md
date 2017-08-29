@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Indicator Frameworks
 
-You can use the [editor on GitHub](https://github.com/indicator-frameworks/indicator-frameworks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+An indicator is just a column of data, typically persistent over time and coming from a stable source or set of sources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Indicator frameworks are just sets of indicators. They have three main uses: (1) to communicate quantitative information and strategic priorities to a wide audience, (2) to enable policy reactions to data, especially in the optimization of processes, and (3) to restrict a ention to a set of ‘relevant’ indicators—thus discarding the information from many other, ‘non-relevant’ indicators.
 
-### Markdown
+### What we do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our idea: instead of constructing indicator frameworks expensively and internally, meaning indicator-by-indicator, we can specify them abstractly and externally, by means of their causal and statistical relationships to other, already-extant sets of indicators. Our approach is especially suited to situations where heterogeneous data is distributed across many projects and many localities.
 
-```markdown
-Syntax highlighted code block
+The indicator frameworks research team conducts original scientific research on indicator frameworks, and works to disseminate our findings to the smart cities community.
 
-# Header 1
-## Header 2
-### Header 3
+### The team
 
-- Bulleted
-- List
+The research team was formed in Summer 2016 by Sokwoo Rhee, director of the Global Cities Team Challenge (GCTC) program at the National Institute for Standards and Technology (NIST). Its current members include:
 
-1. Numbered
-2. List
+- Joshua Tan, University of Oxford
+- Christine Kendrick, City of Portland, OR
+- Abhishek Dubey, Vanderbilt University
+- Santiago Garces, City of South Bend, IN
+- Derek Loftis, 
+- 
 
-**Bold** and _Italic_ and `Code` text
+### Participate
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/indicator-frameworks/indicator-frameworks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in applying or contributing to this research, or have any other questions, please [contact us here](mailto:joshua.tan@magd.ox.ac.uk).
