@@ -10,7 +10,7 @@ Our idea: instead of constructing indicator frameworks expensively and internall
 
 The indicator frameworks research team conducts original scientific research on indicator frameworks, and works to disseminate our findings to the smart cities community.
 
-You can read the original workshop paper, presented at SCOPE 2017, here: [indicator frameworks](...)
+You can read the original workshop paper, presented at SCOPE 2017, here: [indicator frameworks](http://dl.acm.org/citation.cfm?id=3063762).
 
 ### The team
 
