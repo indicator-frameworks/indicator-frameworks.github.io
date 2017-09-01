@@ -2,9 +2,9 @@
 
 An indicator is just a column of data, typically persistent over time and coming from a stable source or set of sources.
 
-Indicator frameworks are just sets of indicators. Every dashboard, every performance measurement framework like [CITYKeys](http://www.citykeys-project.eu/citykeys/home) or [ISO 37120](https://www.iso.org/standard/62436.html) and every list of a key performance indicators is an example of an indicator framework. They have three main uses: (1) to communicate quantitative information and strategic priorities to a wide audience, (2) to enable policy reactions to data, especially in the optimization of processes, and (3) to restrict a ention to a set of ‘relevant’ indicators—thus discarding the information from many other, ‘non-relevant’ indicators.
+Indicator frameworks are just sets of indicators. Every dashboard, every BI tool, and every performance measurement framework (like [CITYKeys](http://www.citykeys-project.eu/citykeys/home) or [ISO 37120](https://www.iso.org/standard/62436.html)) is an example of an indicator framework. They have three main uses: (1) to communicate quantitative information and strategic priorities to a wide audience, (2) to enable policy reactions to data, especially in the optimization of processes, and (3) to restrict a ention to a set of ‘relevant’ indicators—thus discarding the information from many other, ‘non-relevant’ indicators.
 
-Indicator frameworks among the simplest examples of *scientific models based on data*. Our research looks at the foundations of these models, with an eye toward enriching and automating the process of constructing real-world frameworks for cities around the world.
+Indicator frameworks among the simplest examples of *scientific models based on data*. Our research looks at the foundations of these models, with an eye toward enriching and automating the process of constructing real-world frameworks for cities and the organizations that serve them.
 
 [Read the slides from GCTC 2017](https://github.com/indicator-frameworks/indicator-frameworks.github.io/raw/master/GCTC_2017.pdf).
 
